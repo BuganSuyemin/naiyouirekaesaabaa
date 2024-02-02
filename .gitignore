@@ -1,0 +1,6 @@
+bd
+node_modules
+src/.prettierrc
+tsconfig.json
+package-lock.json
+学ぶべきこと
